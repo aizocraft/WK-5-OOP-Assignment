@@ -1,4 +1,4 @@
-# OOPClass & Polymorphism Assignment
+# OOP Class & Polymorphism Assignment
 
 ## Overview
 
